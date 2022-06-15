@@ -9,4 +9,6 @@ At the moment, I am finishing the "Data Analyst" courses at Yandex.Practicum. I 
 
 👀 Check out my [Linkedin profile](https://www.linkedin.com/in/valeryiabb/).
 
+👣 Go to my [Tableau Public profile](https://public.tableau.com/app/profile/valeryia1682).
+
 ✉️ Send me an email: vbb.pro@yandex.by
