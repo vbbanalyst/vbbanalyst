@@ -1,9 +1,11 @@
 ### 👋 Hi there, I'm Valeryia.
 #### 👩‍💻 Begginer Data Analyst from Belarus.
 
-I devoted 10 years of my life to law: 2 years of exam preparation, 4 years of university studies and 4 years of practice in various organizations. However, the current situation does not allow me to develop successfully as a lawyer.
+After graduating from law school, I became a business lawyer, because I wanted to be part of business development. At the same time, I have always been interested in the causes and consequences of various processes, people's behavior.
 
-I decided to move from text analysis to analysis of numbers and other data.
+I took courses for lawyers in IT, where I got to know this area better. I realized that here I can combine all my interests together.
+
+After looking at professions in IT, I saw myself in data analytics and decided to change my profession.
 
 At the moment, I am finishing the "Data Analyst" courses at Yandex.Practicum. I have learned the basics of analytics and statistics, Python, SQL and visualization of analysis results.
 
