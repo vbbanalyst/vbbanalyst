@@ -1,5 +1,5 @@
 ### 👋 Hi there, I'm Valeryia.
-#### 👩‍💻 Begginer Data Analyst from Belarus.
+#### 👩‍💻 Data Analyst from Belarus.
 
 After graduating from law school, I became a business lawyer, because I wanted to be part of business development. At the same time, I have always been interested in the causes and consequences of various processes, people's behavior.
 
